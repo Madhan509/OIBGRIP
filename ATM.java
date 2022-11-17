@@ -125,7 +125,7 @@ class ATM
 {
 	public static void main(String args[])
 	{
-		BankAccount b = new BankAccount("Bank of Chadalawada","1509");
+		BankAccount b = new BankAccount("Bank of CREC","1509");
 		b.login();
 	}
 }
